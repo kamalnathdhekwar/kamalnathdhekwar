@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kamalnath-dhekwar-0a5a38261/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamalnath-dhekwar" height="30" width="40" /></a>
 <a href="https://instagram.com/kamalnath_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamalnath_06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kamalnath26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamalnath26" height="30" width="40" /></a>
+</a>
 <a href="https://auth.geeksforgeeks.org/user/dhekwarkamjjp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhekwarkamjjp4" height="30" width="40" /></a>
 </p>
 
