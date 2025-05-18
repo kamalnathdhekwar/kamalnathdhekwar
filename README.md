@@ -25,7 +25,13 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhekwarkamjjp4" height="30" width="40" />
     </a>
     <a href="https://www.codechef.com/users/kamalnathdc18" target="blank">
-   <img src=https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg alt="dd" width="46"  >
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kamalnathdc18" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/kamalnathdf" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kamalnathdf" height="30" width="40" />
+    </a>
+    <a href="https://leetcode.com/u/kamalnathd1806/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kamalnathd1806" height="30" width="40" />
     </a>
 </p>
 
