@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalnathdhekwar" alt="kamalnathdhekwar" /></a> </p>
 
-- 🔭 I’m currently working on [Shastav Bharat Charging limited (blu-e)](https://blu-e.in/)
+- 🔭 I’m currently working As a DevOps Enginner In C&R Software.
 
-- 🌱 I’m currently learning **Next.JS**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **dhekwarkamalnath18@gmail.com**
 
